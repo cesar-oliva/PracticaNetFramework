@@ -1,0 +1,5 @@
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\Dominio\bin\Debug\Dominio.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\Dominio\bin\Debug\Dominio.pdb
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\Dominio\obj\Debug\Dominio.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\Dominio\obj\Debug\Dominio.pdb

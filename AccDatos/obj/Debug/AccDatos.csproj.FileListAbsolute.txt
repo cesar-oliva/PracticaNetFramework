@@ -1,0 +1,16 @@
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\bin\Debug\AccDatos.dll.config
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\bin\Debug\AccDatos.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\bin\Debug\AccDatos.pdb
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\bin\Debug\EntityFramework.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\bin\Debug\EntityFramework.xml
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\obj\Debug\AccDatos.csproj.AssemblyReference.cache
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\obj\Debug\AccDatos.csproj.CoreCompileInputs.cache
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\obj\Debug\AccDatos.csproj.CopyComplete
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\obj\Debug\AccDatos.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\obj\Debug\AccDatos.pdb
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\bin\Debug\Dominio.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\bin\Debug\Dominio.pdb
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\obj\Debug\AccDatos.Migrations.primera.resources
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\AccDatos\obj\Debug\AccDatos.csproj.GenerateResource.cache

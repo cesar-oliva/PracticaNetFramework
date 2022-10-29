@@ -1,0 +1,188 @@
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\NET_Framework.dll.config
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\NET_Framework.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\NET_Framework.pdb
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\csc.exe
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\csc.exe.config
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\csc.rsp
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\csi.exe
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\csi.exe.config
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\csi.rsp
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.AppContext.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Console.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.IO.Compression.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Net.Http.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Net.Sockets.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.ValueTuple.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Xml.XPath.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\vbc.exe
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\vbc.exe.config
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\vbc.rsp
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\Antlr3.Runtime.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\Newtonsoft.Json.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.Helpers.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.Mvc.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.Optimization.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.Razor.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.WebPages.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\WebGrease.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.Helpers.xml
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.Mvc.xml
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.Optimization.xml
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.Razor.xml
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.WebPages.xml
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\Newtonsoft.Json.xml
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\Antlr3.Runtime.pdb
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\es\System.Web.Helpers.resources.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\es\System.Web.Mvc.resources.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\es\System.Web.Optimization.resources.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\es\System.Web.Razor.resources.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\es\System.Web.WebPages.resources.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\obj\Debug\NET_Framework.csproj.AssemblyReference.cache
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\obj\Debug\NET_Framework.csproj.CoreCompileInputs.cache
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\obj\Debug\NET_Framework.csproj.CopyComplete
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\obj\Debug\NET_Framework.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\obj\Debug\NET_Framework.pdb
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\AccDatos.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\Dominio.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\AccDatos.pdb
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\AccDatos.dll.config
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\EntityFramework.xml
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\Dominio.pdb
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\EntityFramework.SqlServer.dll
+C:\Users\loko1\Documents\temp\artwork1121\PracticaNetFramework\bin\EntityFramework.SqlServer.xml
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\NET_Framework.dll.config
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\NET_Framework.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\NET_Framework.pdb
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\csc.exe
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\csc.exe.config
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\csc.rsp
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\csi.exe
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\csi.exe.config
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\csi.rsp
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.AppContext.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Collections.Immutable.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Console.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Globalization.Calendars.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.IO.Compression.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.IO.FileSystem.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Net.Http.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Net.Sockets.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Reflection.Metadata.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.ValueTuple.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Xml.XPath.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\vbc.exe
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\vbc.exe.config
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\vbc.rsp
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\VBCSCompiler.exe
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\roslyn\VBCSCompiler.exe.config
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\AccDatos.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\Antlr3.Runtime.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\Dominio.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\Microsoft.Web.Infrastructure.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\Newtonsoft.Json.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.Helpers.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.Mvc.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.Optimization.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.Razor.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.WebPages.Deployment.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.WebPages.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.WebPages.Razor.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\WebGrease.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\EntityFramework.SqlServer.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\AccDatos.pdb
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\AccDatos.dll.config
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\Dominio.pdb
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\EntityFramework.xml
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.Helpers.xml
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.Mvc.xml
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.Optimization.xml
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.Razor.xml
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.WebPages.xml
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.WebPages.Deployment.xml
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\System.Web.WebPages.Razor.xml
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\Newtonsoft.Json.xml
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\Antlr3.Runtime.pdb
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\EntityFramework.SqlServer.xml
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\es\System.Web.Helpers.resources.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\es\System.Web.Mvc.resources.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\es\System.Web.Optimization.resources.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\es\System.Web.Razor.resources.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\es\System.Web.WebPages.resources.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\obj\Debug\NET_Framework.csproj.AssemblyReference.cache
+G:\Proyectos Linux\.NET\PracticaNetFramework\obj\Debug\NET_Framework.csproj.CoreCompileInputs.cache
+G:\Proyectos Linux\.NET\PracticaNetFramework\obj\Debug\NET_Framework.csproj.CopyComplete
+G:\Proyectos Linux\.NET\PracticaNetFramework\obj\Debug\NET_Framework.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\obj\Debug\NET_Framework.pdb
