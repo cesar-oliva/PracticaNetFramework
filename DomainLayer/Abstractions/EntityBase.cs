@@ -1,0 +1,9 @@
+﻿using System;
+
+namespace NET_Framework.DomainLayer
+{
+	public abstract class EntityBase
+	{
+		public int Id { get; set; }
+	}
+}

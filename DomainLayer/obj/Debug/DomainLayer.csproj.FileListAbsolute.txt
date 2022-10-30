@@ -1,0 +1,12 @@
+G:\Proyectos Linux\.NET\PracticaNetFramework\Dominio\bin\Debug\Dominio.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\Dominio\bin\Debug\Dominio.pdb
+G:\Proyectos Linux\.NET\PracticaNetFramework\Dominio\obj\Debug\DomainLayer.csproj.AssemblyReference.cache
+G:\Proyectos Linux\.NET\PracticaNetFramework\Dominio\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+G:\Proyectos Linux\.NET\PracticaNetFramework\Dominio\obj\Debug\Dominio.dll
+G:\Proyectos Linux\.NET\PracticaNetFramework\Dominio\obj\Debug\Dominio.pdb
+G:\Proyectos Linux\.NET\NetFramework\DomainLayer\bin\Debug\Dominio.dll
+G:\Proyectos Linux\.NET\NetFramework\DomainLayer\bin\Debug\Dominio.pdb
+G:\Proyectos Linux\.NET\NetFramework\DomainLayer\obj\Debug\DomainLayer.csproj.AssemblyReference.cache
+G:\Proyectos Linux\.NET\NetFramework\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+G:\Proyectos Linux\.NET\NetFramework\DomainLayer\obj\Debug\Dominio.dll
+G:\Proyectos Linux\.NET\NetFramework\DomainLayer\obj\Debug\Dominio.pdb
