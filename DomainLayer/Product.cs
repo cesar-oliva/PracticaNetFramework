@@ -8,9 +8,9 @@ namespace NET_Framework.DomainLayer
 	{
 		[Required(ErrorMessage = "Debe ingresar un nombre.")]
 		[StringLength(50, MinimumLength = 4, ErrorMessage = "Longitud no valida.")]
-		[Display(Name = "Producto")]
+		[Display(Name = "Product")]
 		public string Name { get; set; }
-		[Display(Name ="Descripción")]
+		[Display(Name ="Description")]
 		public string Description { get; set; }
 		public decimal Price { get; set; }
 		public decimal Tax { get; set; }
@@ -18,7 +18,6 @@ namespace NET_Framework.DomainLayer
 		public decimal TotalPrice { get => Price+(Price*Tax)/100; }
 		public int CompanyId { get; set; }
 		public virtual Company Company { get; set; }
-
 		public string Image { get; set; }
 	}
 }

@@ -7,13 +7,13 @@ namespace AccDatos.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.4")]
-    public sealed partial class firstcreate : IMigrationMetadata
+    public sealed partial class firstmigrations : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(firstcreate));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(firstmigrations));
         
         string IMigrationMetadata.Id
         {
-            get { return "202210300028369_first-create"; }
+            get { return "202210302300043_first-migrations"; }
         }
         
         string IMigrationMetadata.Source

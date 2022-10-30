@@ -44,5 +44,5 @@ G:\Proyectos Linux\.NET\NetFramework\DataLayer\obj\Debug\DataLayer.csproj.CoreCo
 G:\Proyectos Linux\.NET\NetFramework\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
 G:\Proyectos Linux\.NET\NetFramework\DataLayer\obj\Debug\AccDatos.dll
 G:\Proyectos Linux\.NET\NetFramework\DataLayer\obj\Debug\AccDatos.pdb
-G:\Proyectos Linux\.NET\NetFramework\DataLayer\obj\Debug\AccDatos.Migrations.firstcreate.resources
+G:\Proyectos Linux\.NET\NetFramework\DataLayer\obj\Debug\AccDatos.Migrations.firstmigrations.resources
 G:\Proyectos Linux\.NET\NetFramework\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache

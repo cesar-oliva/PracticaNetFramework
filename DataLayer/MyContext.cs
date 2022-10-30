@@ -6,7 +6,7 @@ namespace DataLayer
 {
     public class MyContext : DbContext
     {
-        public MyContext() : base("Data Source=CESAR-COREI5\\SQLEXPRESS;Initial Catalog=NET_Framework;Integrated Security=True")
+        public MyContext() : base("Data Source = CESAR-COREI5\\SQLEXPRESS; Initial Catalog = NET_Framework; Integrated Security = True")
         {
 		}
 
