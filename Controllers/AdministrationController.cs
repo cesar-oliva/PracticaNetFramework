@@ -24,7 +24,7 @@ namespace NET_Framework.Controllers
         }
 
         //GET: Products
-        public ActionResult Products()
+        public ActionResult Company()
         {
             ViewBag.Message = "Productos";
 
