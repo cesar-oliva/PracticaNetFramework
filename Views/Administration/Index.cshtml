@@ -3,21 +3,27 @@
     ViewBag.Title = "Administration Page";
 }
 <div class="card-container">
-    <div class="card" style="width: 18rem;">
-        <img src="..." class="card-img-top" alt="...">
-        <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+    <div class="row justify-content-between">
+        <div class="card px-4" style="width: 15rem;">
+            <img src="~/Content/Images/escaner-de-codigo-de-barras.png" class="card-img-top text-center" alt="...">
+            <div class="card-body text-center">
+                <h5 class="card-title text-center"><strong>PRODUCTS</strong></h5>
+                <a href="~/Product/Index" class="btn btn-primary">Enter Product</a>
+            </div>
         </div>
-    </div>
-
-    <div class="card" style="width: 18rem;">
-        <img src="..." class="card-img-top" alt="...">
-        <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+        <div class="card px-4" style="width: 15rem;">
+            <img src="~/Content/Images/atencion-al-cliente.png" class="card-img-top text-center" alt="...">
+            <div class="card-body text-center">
+                <h5 class="card-title text-center"><strong>CLIENTS</strong></h5>
+                <a href="#" class="btn btn-primary">Enter Client</a>
+            </div>
+        </div>
+        <div class="card px-4" style="width: 15rem;">
+            <img src="~/Content/Images/punto-de-venta.png" class="card-img-top text-center" alt="...">
+            <div class="card-body text-center">
+                <h5 class="card-title text-center"><strong>SALES</strong></h5>
+                <a href="#" class="btn btn-primary">Enter Sale</a>
+            </div>
         </div>
     </div>
 </div>

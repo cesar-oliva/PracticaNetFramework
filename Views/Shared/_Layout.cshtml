@@ -13,9 +13,9 @@
 <body>
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-            <a class="navbar-brand" href="#">
-                <img src="~/Content/Images/dotnet-logo.svg" width="30" height="30" alt="">
-                NET Framework
+            <a class="navbar-brand" href="~/Administration/Index">
+                <img src="~/Content/Images/tecnologia.png" width="30" height="30" alt="">
+                TECNO-WORLD
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -23,11 +23,11 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        @Html.ActionLink("Products", "Index", "Products", new { @class = "nav-link" })
+                    <li class="nav-item">
+                        @Html.ActionLink("Product", "Index", "Product","Administration", new { @class = "nav-link" })
                     </li>
                     <li class="nav-item">
-                        @Html.ActionLink("About", "About", "Administration", new { @class = "nav-link" })
+                        @Html.ActionLink("About", "About", "Administration","Product", new { @class = "nav-link" })
                     </li>
                 </ul>
             </div>
